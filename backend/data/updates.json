@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "politician",
+    "text": "The new park will be constructed by next month.",
+    "createdAt": 1762620118965
+  },
+  {
+    "id": 2,
+    "role": "citizen",
+    "text": "The street lights are not working properly in Block A.",
+    "createdAt": 1762620118965
+  }
+]
